@@ -21,6 +21,7 @@ new_df = new_df.sort_values(by=['Confirmed'], ascending=[False]).head(20)
 data = [go.Bar(x=new_df['State'], y=new_df['Confirmed'])]
 
 # Preparing layout
+# noinspection PyTypeChecker
 layout = go.Layout(title='Corona Virus Confirmed Cases in The US', xaxis_title="States",
                    yaxis_title="Number of confirmed cases")
 
