@@ -1,0 +1,87 @@
+NOC,Gold,Silver,Bronze,Total,Continent
+United States(USA),46,37,38,121,North America
+Great Britain(GBR),27,23,17,67,Europe
+China(CHN),26,18,26,70,Asia
+Russia(RUS),19,17,20,56,Europe
+Germany(GER),17,10,15,42,Europe
+Japan(JPN),12,8,21,41,Asia
+France(FRA),10,18,14,42,Europe
+South Korea(KOR),9,3,9,21,Asia
+Italy(ITA),8,12,8,28,Europe
+Australia(AUS),8,11,10,29,Oceania
+Netherlands(NED),8,7,4,19,Europe
+Hungary(HUN),8,3,4,15,Europe
+Brazil(BRA),7,6,6,19,South America
+Spain(ESP),7,4,6,17,Europe
+Kenya(KEN),6,6,1,13,Africa
+Jamaica(JAM),6,3,2,11,North America
+Croatia(CRO),5,3,2,10,Europe
+Cuba(CUB),5,2,4,11,North America
+New Zealand(NZL),4,9,5,18,Oceania
+Canada(CAN),4,3,15,22,North America
+Uzbekistan(UZB),4,2,7,13,Asia
+Kazakhstan(KAZ),3,5,10,18,Asia
+Colombia(COL),3,2,3,8,South America
+Switzerland(SUI),3,2,2,7,Europe
+Iran(IRI),3,1,4,8,Asia
+Greece(GRE),3,1,2,6,Europe
+Argentina(ARG),3,1,0,4,South America
+Denmark(DEN),2,6,7,15,Europe
+Sweden(SWE),2,6,3,11,Europe
+South Africa(RSA),2,6,2,10,Africa
+Ukraine(UKR),2,5,4,11,Europe
+Serbia(SRB),2,4,2,8,Europe
+Poland(POL),2,3,6,11,Europe
+North Korea(PRK),2,3,2,7,Asia
+Belgium(BEL),2,2,2,6,Europe
+Thailand(THA),2,2,2,6,Asia
+Slovakia(SVK),2,2,0,4,Europe
+Georgia(GEO),2,1,4,7,Europe
+Azerbaijan(AZE),1,7,10,18,Europe
+Belarus(BLR),1,4,4,9,Europe
+Turkey(TUR),1,3,4,8,Europe
+Armenia(ARM),1,3,0,4,Europe
+Czech Republic(CZE),1,2,7,10,Europe
+Ethiopia(ETH),1,2,5,8,Africa
+Slovenia(SLO),1,2,1,4,Europe
+Indonesia(INA),1,2,0,3,Asia
+Romania(ROU),1,1,2,4,Europe
+Bahrain(BRN),1,1,0,2,Asia
+Vietnam(VIE),1,1,0,2,Asia
+Chinese Taipei(TPE),1,0,2,3,Asia
+Bahamas(BAH),1,0,1,2,North America
+Independent Olympic Athletes(IOA),1,0,1,2,
+Ivory Coast(CIV),1,0,1,2,Africa
+Fiji(FIJ),1,0,0,1,Oceania
+Jordan(JOR),1,0,0,1,Asia
+Kosovo(KOS),1,0,0,1,Europe
+Puerto Rico(PUR),1,0,0,1,North America
+Singapore(SIN),1,0,0,1,Asia
+Tajikistan(TJK),1,0,0,1,Asia
+Malaysia(MAS),0,4,1,5,Asia
+Mexico(MEX),0,3,2,5,North America
+Venezuela(VEN),0,2,1,3,South America
+Algeria(ALG),0,2,0,2,Africa
+Ireland(IRL),0,2,0,2,Europe
+Lithuania(LTU),0,1,3,4,Europe
+Bulgaria(BUL),0,1,2,3,Europe
+India(IND),0,1,1,2,Asia
+Mongolia(MGL),0,1,1,2,Asia
+Burundi(BDI),0,1,0,1,Africa
+Grenada(GRN),0,1,0,1,North America
+Niger(NIG),0,1,0,1,Africa
+Philippines(PHI),0,1,0,1,Asia
+Qatar(QAT),0,1,0,1,Asia
+Norway(NOR),0,0,4,4,Europe
+Egypt(EGY),0,0,3,3,Africa
+Tunisia(TUN),0,0,3,3,Africa
+Israel(ISR),0,0,2,2,Asia
+Austria(AUT),0,0,1,1,Europe
+Dominican Republic(DOM),0,0,1,1,North America
+Estonia(EST),0,0,1,1,Europe
+Finland(FIN),0,0,1,1,Europe
+Morocco(MAR),0,0,1,1,Africa
+Nigeria(NGR),0,0,1,1,Africa
+Portugal(POR),0,0,1,1,Europe
+Trinidad and Tobago(TTO),0,0,1,1,South America
+United Arab Emirates(UAE),0,0,1,1,Asia

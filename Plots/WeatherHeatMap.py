@@ -8,7 +8,7 @@ df = pd.read_csv('../Datasets/Weather2014-15.csv')
 # Extrapolating the actual max temp per month
 new_df = df.groupby(['day', 'month'], sort=False).agg(
     {'record_max_temp': 'max'}).reset_index()
-print(new_df)
+#print(new_df)
 
 # Preparing data
 data = [go.Heatmap(x=new_df['day'],

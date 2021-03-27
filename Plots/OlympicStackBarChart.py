@@ -5,9 +5,6 @@ import plotly.graph_objs as go
 # Load CSV file from Datasets folder
 df = pd.read_csv('../Datasets/Olympic2016Rio.csv')
 
-# Removing empty spaces from NOC column to avoid errors
-df = df.apply(lambda x: x.str.strip() if x.dtype == "object" else x)
-
 # Creating sum of number of cases group by NOC Column
 new_df = df.groupby(['NOC']).agg(
     {'Gold': 'sum', 'Silver': 'sum', 'Bronze': 'sum', 'Total': 'sum'}).reset_index()
