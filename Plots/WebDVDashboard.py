@@ -41,8 +41,8 @@ data_stackbarchart = [trace1_stackbarchart, trace2_stackbarchart, trace3_stackba
 # Extrapolating the actual max temp per month
 line_df = df2.groupby('month', sort=False).agg(
     {'actual_max_temp': 'max'}).reset_index()
-data_linechart = [go.Scatter(x=line_df['month'], y=line_df['actual_max_temp'], mode='lines',
-                   name='Record Max Temperature')]
+data_linechart = [go.Scatter(x=line_df['month'], y=line_df['actual_max_temp'],
+                             mode='lines', name='Record Max Temperature')]
 
 # Multi Line Chart
 multiline_df = df2.groupby('month', sort=False).agg(
